@@ -13,3 +13,6 @@ env/
 
 # Local databases
 audit_actions.json
+
+# Local invoice builder project (hosted in separate repo)
+invoice-generator/
